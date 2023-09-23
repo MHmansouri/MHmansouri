@@ -18,13 +18,13 @@ I breathe, dream, and code in Java. With a deep love for this versatile language
 
 My toolset is filled with the latest and greatest tech toys:
 
-    Java (of course! ☕)
-    Mobile application (I mean Android and IOS developer... 😉)
-    Git & GitHub
-    MongoDB
-    MySQL & PostgreSQL
-    RESTful APIs
-    IntelliJ IDEA
+   - Java (of course! ☕)
+   - Mobile application (I mean Android and IOS developer... 😉)
+   - Git & GitHub
+   - MongoDB
+   - MySQL & PostgreSQL
+   - RESTful APIs
+   - IntelliJ IDEA
 
 🌐 Let's Collaborate
 
@@ -32,8 +32,8 @@ I'm always open to new opportunities, collaborations, and exciting projects. If 
 
 📫 Connect with Me
 
-    GitHub: [visit my GitHub](https://github.com/MHmansouri)
-    LinkedIn: [visit my Linkedin](https://www.linkedin.com/in/mhmansouri)
-    Email: patricbab@gmail.com
+   GitHub: [visit my GitHub](https://github.com/MHmansouri)
+   LinkedIn: [visit my Linkedin](https://www.linkedin.com/in/mhmansouri)
+   Email: patricbab@gmail.com
 
 Let's write some code that changes the world, one class at a time! 💻🌍
