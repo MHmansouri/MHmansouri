@@ -4,7 +4,7 @@ I'm Mohammad Hossein mansouri, a passionate Java and Mobile application programm
 
 🧑‍💻 **About Me**
 
-I breathe, dream, and code in Java. With a deep love for this versatile language, I've embarked on a journey to conquer the tech universe. My quest doesn't stop at just writing code; I'm all about building meaningful solutions that solve real-world problems. 💡
+I breathe, dream, and code in Java. With a deep interest for this versatile language, I've embarked on a journey to conquer the tech universe. My quest doesn't stop at just writing code; I'm all about building meaningful solutions that solve real-world problems. 💡
 
 🌟 **My Superpowers**
 
