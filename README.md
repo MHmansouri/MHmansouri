@@ -36,4 +36,4 @@ I'm always open to new opportunities, collaborations, and exciting projects. If 
    - LinkedIn: [visit my Linkedin](https://www.linkedin.com/in/mhmansouri)
    - Email: patricbab@gmail.com
 
-Let's write some code that changes the world, one class at a time! 💻🌍
+Let's write some code that changes the world! 💻🌍
