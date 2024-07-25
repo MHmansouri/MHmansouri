@@ -10,16 +10,16 @@ Specializing in **Flutter** and **Dart**, I have extensive experience in mobile 
 
 - **Open-Source Contributor**: Actively contributing to open-source projects, I believe in the power of community-driven development. Collaboration and knowledge sharing are essential to my approach.
 
-- **Career Opportunities**: Open to new career opportunities where I can contribute my expertise in Flutter and Dart development. Eager to join dynamic teams working on challenging projects.
+- **Career Opportunities**: Open to new career opportunities where I can contribute my expertise in Flutter and Dart development. I am eager to join dynamic teams working on challenging projects.
 
 - **Innovation Enthusiast**: Continuously exploring the latest advancements in the Flutter and Dart ecosystem to keep my skills cutting-edge. Innovation and continuous learning are at the heart of my professional journey.
 
 ## 🔧 Technical Skills
 
-- **Frameworks & Languages**: Flutter, Dart
+- **Frameworks & Languages**: Flutter, Dart, Java, PHP
 - **Platforms**: Android, iOS
 - **Version Control**: Git, GitHub
-- **Databases**: Firebase, SQLite
+- **Databases**: Firebase, MongoDB, SQLite
 - **APIs**: RESTful APIs
 - **Development Tools**: VS Code, Android Studio
 
