@@ -1,40 +1,14 @@
-# 👋 Welcome
+# 👋 Welcome!
 
-**I’m Mohammad Hossein Mansouri,** a dedicated Flutter and Dart developer committed to creating impactful mobile applications. With a solid foundation in cross-platform development, I strive to deliver high-quality, innovative solutions.
+I’m Mohammad Hossein Mansouri, a passionate Cross-Platform Developer with a deep expertise in **Flutter** and **Dart**. I specialize in creating innovative and impactful mobile applications for both **Android** and **iOS** platforms. By leveraging my strong background in **Java** and **PHP**, I develop robust, scalable solutions tailored to meet diverse client needs.
 
-## 🧑‍💻 Professional Background
+I have a wealth of experience in **mobile application development**, along with a solid proficiency in **Database Management** and **Version Control** (Git). These skills ensure that the projects I undertake are not only efficient but also reliable and maintainable. My expertise extends beyond coding; with a foundation in **Graphic Design** and **Project Management**, I bring a comprehensive approach to every project, balancing functionality with visual appeal.
 
-Specializing in **Flutter** and **Dart**, I have extensive experience in mobile application development for both **Android** and **iOS** platforms. My focus is on building robust, scalable applications that address real-world needs.
+I am particularly passionate about **UI/UX Design** and always aim to craft intuitive, user-friendly applications that offer exceptional user experiences. I thrive on collaboration and am always open to connecting with like-minded professionals, exploring exciting opportunities, and sharing insights on mobile app development and the latest industry trends.
 
-## 🌟 Core Competencies
-
-- **Open-Source Contributor**: Actively contributing to open-source projects, I believe in the power of community-driven development. Collaboration and knowledge sharing are essential to my approach.
-
-- **Career Opportunities**: Open to new career opportunities where I can contribute my expertise in Flutter and Dart development. I am eager to join dynamic teams working on challenging projects.
-
-- **Innovation Enthusiast**: Continuously exploring the latest advancements in the Flutter and Dart ecosystem to keep my skills cutting-edge. Innovation and continuous learning are at the heart of my professional journey.
-
-## 🔧 Technical Skills
-
-- **Frameworks & Languages**: Flutter, Dart, Java, PHP
-- **Platforms**: Android, iOS
-- **Version Control**: Git, GitHub
-- **Databases**: Firebase, MongoDB, SQLite
-- **APIs**: RESTful APIs
-- **Development Tools**: VS Code, Android Studio
-
-## 📂 Key Projects
-
-Explore my key projects and detailed portfolio on my website:
-
-[**BuildWithFlutter.ir**](https://www.buildwithflutter.ir)
-
-## 🌐 Let's Connect
-
-I am always open to discussions about potential collaborations, job opportunities, or sharing insights about mobile application development. Feel free to reach out:
-
+Let’s connect:
+- **Portfolio**: [mhmansouri.ir](http://mhmansouri.ir)
 - **GitHub**: [github.com/MHmansouri](https://github.com/MHmansouri)
 - **LinkedIn**: [linkedin.com/in/mhmansouri](https://www.linkedin.com/in/mhmansouri)
-- **Email**: patricbab@gmail.com
-
-Let’s work together to build the future of mobile applications. 💻
+- **Medium**: [mhmansouri.medium.com](https://mhmansouri.medium.com/)
+- **Email**: contact@mhmansouri.ir
